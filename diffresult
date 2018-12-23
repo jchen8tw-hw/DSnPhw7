@@ -1,0 +1,94 @@
+70540c70540
+< Task node removed: (zmn, 17225)
+---
+> Task node removed: (olw, 9772)
+70637c70637
+< Task node removed: (nnv, 9147)
+---
+> Task node removed: (gga, 4212)
+70665c70665
+< Task node removed: (xar, 15565)
+---
+> Task node removed: (igv, 5585)
+70711c70711
+< Task node removed: (rct, 11563)
+---
+> Task node removed: (qly, 11126)
+70750c70750
+< Task node removed: (omt, 9795)
+---
+> Task node removed: (mam, 8124)
+70946c70946
+< Task node removed: (mfh, 8249)
+---
+> Task node removed: (wbq, 14914)
+70978c70978
+< Task node removed: (iww, 6002)
+---
+> Task node removed: (ydf, 16307)
+71000c71000
+< Task node removed: (sla, 12454)
+---
+> Task node removed: (jhl, 6277)
+71002c71002
+< Task node removed: (cul, 1883)
+---
+> Task node removed: (lcu, 7508)
+71062,71063c71062,71063
+< Task node removed: (rxv, 12111)
+< Task node removed: (qel, 10931)
+---
+> Task node removed: (qaa, 10816)
+> Task node removed: (vwl, 14779)
+71076c71076
+< Task node removed: (fjz, 3639)
+---
+> Task node removed: (rks, 11770)
+71115c71115
+< Task node removed: (bif, 889)
+---
+> Task node removed: (ciz, 1585)
+71175c71175
+< Task node removed: (jhh, 6273)
+---
+> Task node removed: (nuv, 9329)
+71212c71212
+< Task node removed: (zci, 16960)
+---
+> Task node removed: (mnc, 8452)
+71214c71214
+< Task node removed: (bpw, 1088)
+---
+> Task node removed: (dmi, 2348)
+71217c71217
+< Task node removed: (wwc, 15446)
+---
+> Task node removed: (dey, 2156)
+71224c71224
+< Task node removed: (fzk, 4040)
+---
+> Task node removed: (kwm, 7344)
+71236c71236
+< Task node removed: (baj, 685)
+---
+> Task node removed: (ebz, 2755)
+71241c71241
+< Task node removed: (gvz, 4627)
+---
+> Task node removed: (rgg, 11654)
+71270c71270
+< Task node removed: (ujy, 13778)
+---
+> Task node removed: (jag, 6090)
+71300c71300
+< Task node removed: (mam, 8124)
+---
+> Task node removed: (omt, 9795)
+71313,71315c71313,71315
+< Period time used : 0.74 seconds
+< Total time used  : 0.74 seconds
+< Total memory used: 5.332 M Bytes
+---
+> Period time used : 0.75 seconds
+> Total time used  : 0.75 seconds
+> Total memory used: 5.367 M Bytes
