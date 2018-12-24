@@ -17575,6 +17575,10 @@ tasknew -n bgc 834
 tasknew -n rlp 11793
 tasknew -n eql 3131
 tasknew -n vuo 14730
-taskassign 18000 -r 100
+taskq -he
+taskq -ha
+taska 18000 -r 1000
+taskq -he
+taskq -ha
 usage
 q -f

@@ -108,7 +108,7 @@ bool TaskMgr::add(const string& s, size_t l) {
 bool TaskMgr::assign(size_t l) {
     // TODO...
     if (empty()) return false;
-    TaskNode minNode(min());
+    TaskNode minNode = min();
     _taskHeap.delMin();
     minNode += l;
     _taskHeap.insert(minNode);
